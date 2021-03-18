@@ -15,7 +15,6 @@ int adjacentElementsProduct(vector<int> inputArray) {
     }
     return p;
 }
-
 int main()
 {
     int q;
